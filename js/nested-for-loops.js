@@ -21,4 +21,4 @@ function nestedForLoops (depth, width=depth) {
 };
 
 // To see your console output outside the tests add function calls here.
-// console.log(nestedForLoops(4));
+
